@@ -1,0 +1,42 @@
+{
+  "name": "hb-fronted",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@ant-design/icons-vue": "^6.1.0",
+    "@popperjs/core": "^2.11.8",
+    "animate.css": "^4.1.1",
+    "ant-design-vue": "^4.0.0-rc.5",
+    "aos": "^2.3.4",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/eslint-parser": "^7.22.10",
+    "@types/node": "^20.5.1",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "prettier": "^3.0.2",
+    "sass": "^1.66.1",
+    "vite": "^4.3.9",
+    "vite-plugin-eslint": "^1.8.1"
+  }
+}
